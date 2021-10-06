@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283187064232",
+    "project_id": "edwar---incremental-game",
+    "storage_bucket": "edwar---incremental-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283187064232:android:5e670bc9d46cd3256f419d",
+        "android_client_info": {
+          "package_name": "com.edwar.incremental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283187064232-uqqkbk8qgqsh0gb5hlr7uj0vkf0o7u2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-vZGruGiYyIGnrqJ1lLePjx4L20Bej0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283187064232-uqqkbk8qgqsh0gb5hlr7uj0vkf0o7u2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
